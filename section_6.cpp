@@ -28,5 +28,6 @@ int main() {
         cout << "Tax : $" << tax << endl;
         cout << "=============================" << endl;
         cout << "Total estimate: $" << total << endl;
-        cout << "This estimate is valid for " << valid << " days" << endl;
+       cout << "This estimate is valid for " << valid << " days" << endl;
+       return 0;
 }
