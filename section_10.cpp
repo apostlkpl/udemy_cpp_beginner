@@ -7,9 +7,9 @@ using namespace std;
 
 int main() {
         // The actual alphabet:
-        string alphabet {"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVXWYZ"};
+        string alphabet {"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVXWYZ0123456789"};
         // The key to encrypt and decrypt:
-        string key{"XZNLWEBGJHQDYVTKFUOMPCIASRxznlwebgjhqdyvtkfuompciasr"};
+        string key{"XZNLWEBGJHQDYVTKFUOMPCIASRxznlwebgjhqdyvtkfuompciasr3210987645"};
         // Checks I don't need anymore
         //cout << "Length of alphabet: " << alphabet.length() << endl;
         //cout << "Length of key: " << key.length() << endl;
